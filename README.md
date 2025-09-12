@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello World!!! I'm Renan!<br><br>A Front-End developer passionate about technology, based in São Paulo, Brazil.<br>I love working with JavaScript and React, building responsive and user-friendly interfaces that deliver the best user experience.<br>I have a background in developing various websites and a special interest in mobile, always eager to learn and apply new solutions in this field.<br><br>🚀 I'm constantly evolving, open to new challenges that help me grow as a developer.</p>
+<p align="left">Hello World!!! I'm Renan Damprelli Cardoso da Silva!<br><br>A Front-End developer passionate about technology, based in São Paulo, Brazil.<br>I love working with JavaScript and React, building responsive and user-friendly interfaces that deliver the best user experience.<br>I have a background in developing various websites and a special interest in mobile, always eager to learn and apply new solutions in this field.<br><br>🚀 I'm constantly evolving, open to new challenges that help me grow as a developer.</p>
 
 ###
 
