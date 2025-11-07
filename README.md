@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-Hello World!!! I'm <b>Renan Damprelli Cardoso da Silva</b> 👋<br><br>
+Hello World!!! I'm <b>Renan Damprelli Cardoso da Silva</b> <br><br>
 A <b>Front-End Developer</b> passionate about technology, based in <b>São Paulo, Brazil</b> 🇧🇷.<br>
 I love working with <b>JavaScript</b> and <b>React</b>, building responsive and user-friendly interfaces that deliver the best user experience.<br>
 I have experience developing various websites and a special interest in <b>mobile</b>, always eager to learn and apply new solutions in this field.<br><br>
@@ -12,7 +12,7 @@ I have experience developing various websites and a special interest in <b>mobil
 
 ###
 
-<h3 align="left">🛠️ Languages and Tools</h3>
+<h3 align="left">Languages and Tools</h3>
 
 ###
 
