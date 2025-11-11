@@ -67,7 +67,7 @@ I have experience developing various websites and a special interest in <b>mobil
 <h3 align="center">📬 Let's Connect!</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/renandamprelli/" target="_blank">
+  <a href="https://www.linkedin.com/in/renan-damprelli/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:renandamprelli@gmail.com">
