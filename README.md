@@ -46,20 +46,17 @@ I have experience developing various websites and a special interest in <b>mobil
 
 <div align="center">
   <img 
-    src="[https://github-readme-stats.vercel.app/api?username=Damprelli11&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Damprelli11&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github
-)" 
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Damprelli11&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=0" 
     height="150" 
     alt="GitHub stats" 
   />
   <img 
-    src="[https://streak-stats.demolab.com?user=Damprelli11&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=7C2AE8&currStreakNum=DDDDDD](https://streak-stats.demolab.com?user=Damprelli11&theme=tokyonight&hide_border=true
-)" 
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs?username=Damprelli11&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=0" 
     height="150" 
     alt="GitHub streak stats" 
   />
   <img 
-    src="[https://github-readme-stats.vercel.app/api/top-langs?username=Damprelli11&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=1800](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Damprelli11&layout=compact&langs_count=6&theme=tokyonight&hide_border=true
-)" 
+    src="https://streak-stats.demolab.com/?user=Damprelli11&theme=tokyonight&hide_border=true" 
     height="150" 
     alt="Top languages" 
   />
