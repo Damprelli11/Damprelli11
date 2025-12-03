@@ -51,7 +51,7 @@ I have experience developing various websites and a special interest in <b>mobil
     alt="GitHub stats" 
   />
   <img 
-    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs?username=Damprelli11&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=0" 
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs?username=Damprelli11&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=0](https://streak-stats.vercel.app?user=Damprelli11&theme=tokyonight&hide_border=true" 
     height="150" 
     alt="GitHub streak stats" 
   />
