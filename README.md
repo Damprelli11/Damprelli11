@@ -46,14 +46,14 @@ I have experience developing various websites and a special interest in <b>mobil
 
 <div align="center">
   <img 
-    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Damprelli11&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=0"
-    height="150" 
-    alt="GitHub stats" 
+    src="https://github-readme-stats.vercel.app/api?username=Damprelli11&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"
+    height="150"
+    alt="GitHub stats"
   />
   <img 
-    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs?username=Damprelli11&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=0"  
-    height="150" 
-    alt="GitHub streak stats" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damprelli11&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"
+    height="150"
+    alt="Top languages"
   />
   <img 
     src="https://streak-stats.vercel.app?user=Damprelli11&theme=tokyonight&hide_border=true"
